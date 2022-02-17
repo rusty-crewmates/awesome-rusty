@@ -33,6 +33,7 @@
   * https://doc.rust-lang.org/reference/macros-by-example.html
 
 ## Substrate
+* [Awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 * [Documentation](https://docs.substrate.io/v3/getting-started/overview/) - Official documentation hub for Substrate developers.
 * [How-to-guides](https://docs.substrate.io/how-to-guides/v3/) - Guides for developers with some prior knowledge of Substrate and a specific goal they want to achieve.
 * [Tutorials](https://docs.substrate.io/tutorials/v3/) - Play with Substrate features.

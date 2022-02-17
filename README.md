@@ -1,4 +1,4 @@
-# awesome-rusty
+# Awesome Rusty
 > A curated list of links and ressources related to rust, substrate and blockchains.
 
 ## Contents

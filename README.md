@@ -3,10 +3,12 @@
 
 ## Contents
 - [Rust](#rust)
-  - [Substrate-related-features](#substrate-related-features)
+  - [Substrate related features](#substrate-related-features)
 - [Substrate](#substrate)
   - [Architecture](#architecture)
   - [Concepts](#concepts)
+  - [Specific features](#specific-features)
+  - [ink! smart contracts](#ink-smart-contracts)
 - [Blockchains](#blockchains)
   - [Polkadot](#polkadot)
   - [Ethereum](#ethereum)
@@ -20,7 +22,7 @@
 * [Rustlings](https://github.com/rust-lang/rustlings/) - Small exercises to get you used to reading and writing Rust code.
 * [Rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/) - A collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
-#### Substrate-related-features
+#### Substrate related features
 * Generics
   * https://doc.rust-lang.org/book/ch10-01-syntax.html
   * https://doc.rust-lang.org/rust-by-example/generics.html
@@ -50,6 +52,10 @@
 
 #### Specific features
 * [Macros](https://docs.substrate.io/v3/runtime/macros/) - Substrate uses Rust macros to aggregate the logic derived from pallets that are implemented for a runtime.
+
+#### ink! smart contracts
+* [ink! repository](https://github.com/paritytech/ink/tree/master/crates/storage#developer-documentation) - README file from ink! repository.
+* [tutorial](https://docs.substrate.io/tutorials/v3/ink-workshop/pt1/) Substrate's ink! tutorial.
 
 ## Blockchains
 
